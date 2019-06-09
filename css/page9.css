@@ -1,0 +1,245 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08.06.2019, 17:43:54
+    Author     : user
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#main{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    /*visibility: hidden;*/
+    /*    background-image: url(../images/step0.jpg);*/
+}
+
+#seq1{
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    left: 35px;
+    top: 246px;
+
+}
+
+#seq2{
+
+    position: absolute;
+    width: 57px;
+    height: 58px;
+    left: 35px;
+    top: 330px;
+}
+
+#seq3{
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    left: 35px;
+    top: 415px;
+}
+
+#seq4{
+
+    position: absolute;
+    width: 57px;
+    height: 58px;
+    left: 35px;
+    top: 499px;
+}
+#seq5{
+
+    position: absolute;
+    width: 57px;
+    height: 58px;
+    left: 35px;
+    top: 584px;
+}
+#seq6{
+
+    position: absolute;
+    width: 57px;
+    height: 58px;
+    left: 35px;
+    top: 672px;
+}
+
+
+h2{
+
+    position: absolute;
+    width: 304px;
+    height: 52px;
+    left: 45px;
+    top: 158px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #010002;
+
+    border-radius: 2px;
+}
+
+.ellipse{
+    opacity: 0.5;
+}
+
+.ellipsetap{
+    opacity: 1;
+}
+
+#label1{
+
+    position: absolute;
+    width: 231px;
+    height: 52px;
+    left: 108px;
+    top: 246px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+}
+
+#label2{
+    position: absolute;
+    width: 231px;
+    height: 52px;
+    left: 108px;
+    top: 333px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+}
+#label3{
+    position: absolute;
+    width: 231px;
+    height: 52px;
+    left: 108px;
+    top: 418px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+}
+#label4{
+    position: absolute;
+    width: 231px;
+    height: 52px;
+    left: 108px;
+    top: 502px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+}
+
+#label5{
+
+    position: absolute;
+    width: 231px;
+    height: 52px;
+    left: 108px;
+    top: 587px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+}
+
+#label6{
+    position: absolute;
+    width: 231px;
+    height: 52px;
+    left: 108px;
+    top: 675px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+}
+
+#date{
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    left: 60px;
+    top: 250px;
+}
+
+#main{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 375px;
+    height: 812px;
+    background-image: url('../images/main/city_route.jpg');
+}
+
+#home{
+position: absolute;
+width: 16px;
+height: 16px;
+left: 181px;
+top: 782px;
+    background-image: url('../images/main/main_menu.png');
+}
+
+#back{
+position: absolute;
+width: 15px;
+height: 17px;
+left: 81px;
+top: 781px;
+background-image: url('../images/main/back.png');
+}
+
+#minimize{
+position: absolute;
+width: 16px;
+height: 16px;
+left: 282px;
+top: 782px;
+background-image: url('../images/main/minimize.png');
+}

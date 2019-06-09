@@ -1,0 +1,106 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08.06.2019, 17:43:54
+    Author     : user
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#load1{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    /*visibility: hidden;*/
+    /*    background-image: url(../images/step0.jpg);*/
+}
+
+#load0{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    /*visibility: hidden;*/
+    /*    background-image: url(../images/step1.jpg);*/
+}
+
+#main{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    /*visibility: hidden;*/
+    /*    background-image: url(../images/step0.jpg);*/
+}
+
+/*#qecllipse{
+    text-align:center;
+    margin:158px auto;
+    top: 100px;
+    left: 50%;
+        width: 100px;
+        height: 100px;
+}*/
+
+#eq1{
+    position: absolute;
+    left: 39px;
+    top: 246px;
+    /*opacity: 0.5;*/
+}
+#eq2{
+    position: absolute;
+    left: 215px;
+    top: 246px;
+    /*opacity: 0.5;*/
+}
+#eq3{
+    position: absolute;
+    left: 39px;
+    top: 422px;
+    /*opacity: 0.5;*/
+}
+#eq4{
+    position: absolute;
+    left: 215px;
+    top: 422px;
+    /*opacity: 0.5;*/
+}
+
+.ellipse{
+    opacity: 0.5;
+}
+
+.ellipsetap{
+    opacity: 1;
+}
+
+h2{
+
+    position: absolute;
+    width: 304px;
+    height: 52px;
+    left: 55px;
+    top: 158px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #010002;
+
+    border-radius: 2px;
+}
+
+

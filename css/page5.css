@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08.06.2019, 17:43:54
+    Author     : user
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#main{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    /*visibility: hidden;*/
+    /*    background-image: url(../images/step0.jpg);*/
+}
+#points_map0{
+    overflow: hidden;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 375px;
+    height: 812px;
+    background-image: url('../images/main/map_point0.png');
+    /*background-size: cover;*/
+}
+
+#points_map1{
+    overflow: hidden;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 375px;
+    height: 812px;
+    background-image: url('../images/main/map_point1.png');
+    /*background-size: cover;*/
+}
+
+#points_map2{
+    overflow: hidden;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 375px;
+    height: 812px;
+    background-image: url('../images/main/map_point2.png');
+    /*background-size: cover;*/
+}
+
+#points_map3{
+    overflow: hidden;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 375px;
+    height: 812px;
+    background-image: url('../images/main/map_point3.png');
+    /*background-size: cover;*/
+}
+
+#map{
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 375px;
+    height: 812px;
+    background-image: url('../images/main/map1.jpg');
+    /*background-size: cover;*/
+}
+
+#toolbar{
+    position: absolute;
+    width: 375px;
+    height: 73px;
+    left: 0px;
+    top: 740px;
+    background-image: url('../images/main/down_toolbar.png');
+}

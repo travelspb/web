@@ -1,0 +1,213 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08.06.2019, 17:43:54
+    Author     : user
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#main{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    /*visibility: hidden;*/
+    /*    background-image: url(../images/step0.jpg);*/
+}
+
+#seq1{
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    left: 35px;
+    top: 246px;
+}
+
+#seq2{
+    position: absolute;
+    width: 58px;
+    height: 57px;
+    left: 119px;
+    top: 246px;
+}
+
+#seq3{
+    position: absolute;
+    width: 58px;
+    height: 57px;
+    left: 202px;
+    top: 246px; 
+}
+
+#seq4{
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    left: 287px;
+    top: 246px;
+}
+#seq5{
+    position: absolute;
+    width: 57px;
+    height: 58px;
+    left: 35px;
+    top: 330px;
+}
+#seq6{
+
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    left: 119px;
+    top: 330px;
+}
+#seq7{
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    left: 202px;
+    top: 330px;
+}
+#seq8{
+
+    position: absolute;
+    width: 57px;
+    height: 58px;
+    left: 287px;
+    top: 330px; 
+}
+#seq9{
+
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    left: 35px;
+    top: 415px;
+}
+#seq10{
+    position: absolute;
+    width: 58px;
+    height: 57px;
+    left: 119px;
+    top: 415px;
+}
+#seq11{
+    position: absolute;
+    width: 58px;
+    height: 57px;
+    left: 202px;
+    top: 415px;
+}
+#seq12{
+
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    left: 287px;
+    top: 415px;
+}
+#seq13{
+
+    position: absolute;
+    width: 57px;
+    height: 58px;
+    left: 35px;
+    top: 499px;
+}
+#seq14{
+
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    left: 119px;
+    top: 499px;
+}
+#seq15{
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    left: 202px;
+    top: 499px;
+}
+#seq16{
+    position: absolute;
+    width: 57px;
+    height: 58px;
+    left: 287px;
+    top: 499px;
+}
+#seq17{
+    position: absolute;
+    width: 57px;
+    height: 58px;
+    left: 35px;
+    top: 584px;
+}
+#seq18{
+
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    left: 119px;
+    top: 584px;
+}
+#seq19{
+    position: absolute;
+    width: 58px;
+    height: 58px;
+    left: 202px;
+    top: 584px;
+}
+#seq20{
+    position: absolute;
+    width: 57px;
+    height: 58px;
+    left: 287px;
+    top: 584px;
+}
+
+
+h2{
+
+    position: absolute;
+    width: 304px;
+    height: 52px;
+    left: 35px;
+    top: 158px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #010002;
+
+    border-radius: 2px;
+}
+
+.ellipse{
+    opacity: 0.5;
+}
+
+.ellipsetap{
+    opacity: 1;
+}
+
+#arrow_right{
+    position: absolute;
+    width: 11px;
+    height: 90px;
+    left: 354px;
+    top: 350px;
+}
